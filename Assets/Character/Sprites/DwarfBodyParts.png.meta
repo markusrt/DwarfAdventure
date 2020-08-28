@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: bd96d71e4c13b86408262892653fd991
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1134200211565834365
+    second: DwarfBodyParts_Head
+  - first:
+      213: 2616324313081786404
+    second: DwarfBodyParts_LeftArm
+  - first:
+      213: -1220289554537963555
+    second: Head
+  - first:
+      213: -3822083809458782083
+    second: DwarfBodyParts_Body
+  - first:
+      213: 4041648668510624897
+    second: DwarfBodyParts_LeftLeg
+  - first:
+      213: 7587471478607980557
+    second: DwarfBodyParts_RightLeg
+  - first:
+      213: 8633118160707280069
+    second: DwarfBodyParts_6
+  - first:
+      213: 7381193593157472833
+    second: DwarfBodyParts_7
+  - first:
+      213: 5170884802447083906
+    second: LeftArm
+  - first:
+      213: -4912312716164862408
+    second: DwarfBodyParts_9
+  - first:
+      213: -1054067325238411606
+    second: RightArm
+  - first:
+      213: 903034605974473660
+    second: DwarfBodyParts_11
+  - first:
+      213: 4450001504821700824
+    second: DwarfBodyParts_12
+  - first:
+      213: -5370435132358162642
+    second: DwarfBodyParts_13
+  - first:
+      213: 5764767130220711416
+    second: DwarfBodyParts_14
+  - first:
+      213: 6329745540071738909
+    second: DwarfBodyParts_15
+  - first:
+      213: -6022411262176217024
+    second: DwarfBodyParts_16
+  - first:
+      213: -1939130196941024359
+    second: DwarfBodyParts_17
+  - first:
+      213: -873243589112463347
+    second: Body
+  - first:
+      213: 1880870046438614771
+    second: DwarfBodyParts_19
+  - first:
+      213: 8040278374239582814
+    second: DwarfBodyParts_20
+  - first:
+      213: -5708048746964805037
+    second: DwarfBodyParts_21
+  - first:
+      213: -1037919529436210779
+    second: DwarfBodyParts_22
+  - first:
+      213: 3864048747835811885
+    second: DwarfBodyParts_23
+  - first:
+      213: -4599433622575642819
+    second: DwarfBodyParts_24
+  - first:
+      213: 530732682811124817
+    second: DwarfBodyParts_25
+  - first:
+      213: -2620573733815558565
+    second: LeftLeg
+  - first:
+      213: -3326855465142029536
+    second: DwarfBodyParts_27
+  - first:
+      213: 7562973330490583201
+    second: RightLeg
+  - first:
+      213: 8658554346844311691
+    second: DwarfBodyParts_29
+  - first:
+      213: 7822959484561385395
+    second: DwarfBodyParts_30
+  - first:
+      213: -1502879633693830396
+    second: DwarfBodyParts_31
+  - first:
+      213: -187065606635628615
+    second: DwarfBodyParts_32
+  - first:
+      213: 8469888979679133452
+    second: DwarfBodyParts_33
+  - first:
+      213: 6761873696734789385
+    second: DwarfBodyParts_34
+  - first:
+      213: -4152119009804015526
+    second: DwarfBodyParts_35
+  - first:
+      213: -3755457293960952301
+    second: DwarfBodyParts_36
+  - first:
+      213: 522074024137632062
+    second: DwarfBodyParts_37
+  - first:
+      213: -8193053637141350477
+    second: DwarfBodyParts_38
+  - first:
+      213: 7193740677036340946
+    second: DwarfBodyParts_39
+  - first:
+      213: -487993776809882213
+    second: DwarfBodyParts_40
+  - first:
+      213: -9011931705952510896
+    second: DwarfBodyParts_41
+  - first:
+      213: 562546940869731054
+    second: DwarfBodyParts_42
+  - first:
+      213: 5068769815332408252
+    second: DwarfBodyParts_43
+  - first:
+      213: 4104264971699628039
+    second: DwarfBodyParts_44
+  - first:
+      213: 1654196367761505781
+    second: DwarfBodyParts_45
+  - first:
+      213: -4754567482542051938
+    second: DwarfBodyParts_46
+  - first:
+      213: 8896357900785614143
+    second: DwarfBodyParts_47
+  - first:
+      213: -5254383083382604381
+    second: DwarfBodyParts_48
+  - first:
+      213: -1690062302843164554
+    second: DwarfBodyParts_49
+  - first:
+      213: -6415386896789330896
+    second: DwarfBodyParts_50
+  - first:
+      213: 405434213398450408
+    second: DwarfBodyParts_51
+  - first:
+      213: 4197892827229305500
+    second: DwarfBodyParts_52
+  - first:
+      213: -7903034144291913529
+    second: DwarfBodyParts_53
+  - first:
+      213: -9027823628907376913
+    second: DwarfBodyParts_54
+  - first:
+      213: -481473304718644915
+    second: DwarfBodyParts_55
+  - first:
+      213: 5351218498340512192
+    second: DwarfBodyParts_56
+  - first:
+      213: 8129074337203224181
+    second: DwarfBodyParts_57
+  - first:
+      213: -1444598250224946905
+    second: DwarfBodyParts_58
+  - first:
+      213: 2577655391714822683
+    second: DwarfBodyParts_59
+  - first:
+      213: 8125489124786910493
+    second: DwarfBodyParts_60
+  - first:
+      213: 3770766046176971280
+    second: DwarfBodyParts_61
+  - first:
+      213: -7658776176296937681
+    second: DwarfBodyParts_62
+  - first:
+      213: -4148062005426072107
+    second: DwarfBodyParts_63
+  - first:
+      213: 2885042157523159357
+    second: DwarfBodyParts_64
+  - first:
+      213: -6762807011805431095
+    second: DwarfBodyParts_65
+  - first:
+      213: 6443193793848536815
+    second: DwarfBodyParts_66
+  - first:
+      213: 7901401931650808225
+    second: DwarfBodyParts_67
+  - first:
+      213: -2391861958418457082
+    second: DwarfBodyParts_68
+  - first:
+      213: -5347625854743154644
+    second: DwarfBodyParts_69
+  - first:
+      213: 831208654830291556
+    second: DwarfBodyParts_70
+  - first:
+      213: 5264017588015532828
+    second: DwarfBodyParts_71
+  - first:
+      213: -4311548979811364614
+    second: DwarfBodyParts_72
+  - first:
+      213: -1220289554537963555
+    second: DwarfBodyParts_RightArm
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DwarfBodyParts_Head
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 356
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f0275bae28240f0800000000000000
+      internalID: -1134200211565834365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DwarfBodyParts_LeftArm
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 636
+        width: 155
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4203572d91d0f4420800000000000000
+      internalID: 2616324313081786404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DwarfBodyParts_RightArm
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 676
+        width: 153
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf15a29d19a01fe0800000000000000
+      internalID: -1220289554537963555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DwarfBodyParts_Body
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 384
+        width: 427
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70007b860b35fac0800000000000000
+      internalID: -3822083809458782083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DwarfBodyParts_LeftLeg
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 253
+        width: 120
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c9189ec02d61830800000000000000
+      internalID: 4041648668510624897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DwarfBodyParts_RightLeg
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 246
+        width: 119
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0826d11c1d1c4960800000000000000
+      internalID: 7587471478607980557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 637342139815812945
+  assetBundleName: 
+  assetBundleVariant: 
